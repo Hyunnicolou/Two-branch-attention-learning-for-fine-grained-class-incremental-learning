@@ -72,7 +72,13 @@ The framework is tested on three popular fine-grained object datasets:
 - FGVC-Aircraft
 - Stanford-Car
 
+## Data Availability Statement
+The CUB-200-2011 [9] (http://www.vision.caltech.edu/visipedia/CUB-200-2011.html (accessed on 2 June 2021)), FGVC-Aircraft [10] (https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/ (accessed on 2 June 2021)) and Stanford-Cars [11] (https://ai.stanford.edu/~jkrause/cars/car_dataset.html (accessed on 2 June 2021)) data sets presented in this work are publicly available.
+
 Please ensure you have downloaded the datasets and placed them in the appropriate directory before running the scripts.
+
+## Funding
+This work is supported by the Ministry of Education 2021 University-Industry Cooperation Project, China (202002018063, 9 November 2020–9 November 2021), under the project entitled “Virtual prototype-based autonomous driving of miniature intelligent vehicles.” The funding agency has no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
 
 ## Citation
 
